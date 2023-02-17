@@ -1,0 +1,92 @@
+table
+{
+	/*border:2px solid black;*/
+	border-collapse: collapse;
+}
+.customer_col .customer_col_table_1,
+.customer_col .customer_col_table_2
+{
+	margin-top:15px;
+}
+
+.customer_col .column_title
+{
+	background-color:#f2f2f2;
+	color:white;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.customer_col .column_input
+{
+	/*color:white;*/
+	border:2px solid black;
+	text-align: center;
+}
+
+.order_job_type_table .order_job_type_col
+{
+	margin-top:10px;
+}
+
+.table_heading_col
+{
+	color:white;
+	background: #f2f2f2;
+	text-align: center;
+}
+.mt_zero
+{
+	margin-top:0px !important;
+}
+
+.material_table td
+{
+	border:2px solid black;
+}
+
+.red_bg
+{
+	background:red !important;
+}
+
+.red_border
+{
+	border-color:red !important;
+}
+
+.yellow_bg
+{
+	background:yellow !important;
+}
+
+.sky_bg
+{
+	background:lightblue !important;
+}
+
+.height_17
+{
+	height: 17px !important;
+}
+
+table
+{
+    padding:0px; 
+}
+
+.column_title,
+.column_input
+{
+    height:50px !important;
+}
+
+.material_heading_table .column_input
+{
+    height:20px !important;
+}
+
+.material_data_table .column_input
+{
+    height:20px !important;
+}
